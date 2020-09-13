@@ -2,3 +2,7 @@
     color:white;
     background:teal;
 }
+
+.nav-item {
+    float:right;
+}
