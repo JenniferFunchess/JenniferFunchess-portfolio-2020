@@ -6,3 +6,9 @@
 .nav-item {
     float:right;
 }
+
+body {
+    background-image: url("assets/css/images/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
