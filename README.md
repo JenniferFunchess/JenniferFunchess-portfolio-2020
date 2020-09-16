@@ -30,9 +30,9 @@ Usage
 
 To be able to view this site you can visit my Github profile. This site is also listed below:
 
--
+- https://github.com/JenniferFunchess/JenniferFunchess-portfolio-2020
 
--
+- https://jenniferfunchess.github.io/JenniferFunchess-portfolio-2020/
 
 __
 
