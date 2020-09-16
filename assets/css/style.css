@@ -27,9 +27,16 @@ h1, h2, h3 {
 	border: 1px solid #ddd;
 }
 
-#sticky-footer {
-    flex-shrink: none;
-    background:lightgray
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(150, 146, 146);
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 
 /* Navigation Bar information  */
@@ -92,5 +99,3 @@ h1, h2, h3 {
     background: #4aaaa5;
     border: 0 none;
   }
-
-  
