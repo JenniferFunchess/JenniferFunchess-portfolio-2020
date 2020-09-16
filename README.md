@@ -57,6 +57,8 @@ https://wave.webaim.org
 
 HTML Validation
 
+Each HTML document along with the CSS stylesheet has been validated and corrected with help of:
+https://validator.w3.org/nu/#textarea
 
 Contributing
 

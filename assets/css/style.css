@@ -1,17 +1,14 @@
-.navbar-light .navbar-brand {
-    color:white;
-    background:teal;
-}
-
-.nav-link {
-    float:right;
-}
-
+/* All web broswers */
 body {
     background-image: url("./images/background.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+h1, h2, h3 {
+    color: teal;
+}
+
 
 #main-container {
     padding-top: 100px;
@@ -30,6 +27,24 @@ body {
 	border: 1px solid #ddd;
 }
 
+#sticky-footer {
+    flex-shrink: none;
+    background:lightgray
+  }
+
+/* Navigation Bar information  */
+
+.navbar-light .navbar-brand {
+    color:white;
+    background:teal;
+}
+
+.nav-link {
+    float:right;
+}
+
+
+/* About me page information  */
 .bioimage {
 	width: 200px;
 	height: 250px;
@@ -38,10 +53,8 @@ body {
 	margin-right: 25px;
 }
 
-h1, h2, h3 {
-    color: teal;
-}
 
+/* Contact form page  */
 #contact-form ul {
     margin-bottom: 20px;
   }
@@ -79,3 +92,5 @@ h1, h2, h3 {
     background: #4aaaa5;
     border: 0 none;
   }
+
+  
