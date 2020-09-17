@@ -38,8 +38,9 @@ __
 
 Below are photos of the completed webpage broswers:
 
-![](./assets/images/webpage1.png)
-![](./assets/images/webpage2.png)
+![homebrowser](assets/css/images/homebrowser.png)
+![contactbrowser](./assets/images/contactbroswer.png)
+![portfoliobroswer](./assets/images/portfoliobrowser.png)
 
 
 Credits
